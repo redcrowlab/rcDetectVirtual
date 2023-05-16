@@ -4,6 +4,7 @@
 Red Crow Labs
 
 #######################################################################
+DESCRIPTION:
 
 rcDetectVirtual is PoC Code to detect if it is running in a virtual machine. This code only works on linux but could be modified to work on windows as well.
 
